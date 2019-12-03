@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pandas profiling reports
+pandas-reports/
+
+# mac stuff
+.DS_Store
